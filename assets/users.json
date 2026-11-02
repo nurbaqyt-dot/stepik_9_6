@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "first_name": "Oralbay",
+      "last_name": "Nurbaqyt",
+      "website": "nurbaqyt.com"
+    },
+    {
+      "first_name": "Panarbek",
+      "last_name": "Bekasyl",
+      "website": "beka.com"
+    },
+    {
+      "first_name": "Cristiano",
+      "last_name": "Ronaldo",
+      "website": "cristiano.com"
+    }
+  ]
+}
